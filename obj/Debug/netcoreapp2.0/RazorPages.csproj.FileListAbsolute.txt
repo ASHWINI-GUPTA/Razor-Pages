@@ -1,0 +1,11 @@
+E:\Desktop Content\ASP.NET-Core\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.deps.json
+E:\Desktop Content\ASP.NET-Core\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.runtimeconfig.json
+E:\Desktop Content\ASP.NET-Core\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.runtimeconfig.dev.json
+E:\Desktop Content\ASP.NET-Core\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.dll
+E:\Desktop Content\ASP.NET-Core\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.pdb
+E:\Desktop Content\ASP.NET-Core\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.csproj.CoreCompileInputs.cache
+E:\Desktop Content\ASP.NET-Core\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.AssemblyInfoInputs.cache
+E:\Desktop Content\ASP.NET-Core\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.AssemblyInfo.cs
+E:\Desktop Content\ASP.NET-Core\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.dll
+E:\Desktop Content\ASP.NET-Core\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.pdb
+E:\Desktop Content\ASP.NET-Core\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.csprojResolveAssemblyReference.cache
